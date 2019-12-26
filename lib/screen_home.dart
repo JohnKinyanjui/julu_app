@@ -16,7 +16,7 @@ class ScreenHome extends StatelessWidget {
 
   List<ModelTrending> item_trending =[
     ModelTrending(image_path: 'assets/images/tv1.jpg', title: "Samsung Samrt tv", sub: "Its is now released in to the market for ..."),
-    ModelTrending(image_path: 'assets/images/furniture1.jpg', title: "Furnitures", sub: "Its is now released in to the market for ..."),
+    ModelTrending(image_path: 'assets/images/furniture1 .jpg', title: "Furnitures", sub: "Its is now released in to the market for ..."),
     ModelTrending(image_path: 'assets/images/tv1.jpg', title: "Samsung Samrt tv", sub: "Its is now released in to the market for ..."),
     ModelTrending(image_path: 'assets/images/tv1.jpg', title: "Samsung Samrt tv", sub: "Its is now released in to the market for ..."),
     ModelTrending(image_path: 'assets/images/tv1.jpg', title: "Samsung Samrt tv", sub: "Its is now released in to the market for ..."),
